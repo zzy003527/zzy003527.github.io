@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,e as i}from"./app.d41cdaf2.js";const f='{"title":"Features","description":"","frontmatter":{},"headers":[{"level":2,"title":"Features","slug":"features"}],"relativePath":"index.md"}',r={},s=i("",5),l=[s];function n(_,c,o,u,d,p){return a(),t("div",null,l)}var m=e(r,[["render",n]]);export{f as __pageData,m as default};
